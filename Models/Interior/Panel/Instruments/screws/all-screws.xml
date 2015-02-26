@@ -3,7 +3,7 @@
 <PropertyList>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m> -0.217 </y-m>
@@ -12,7 +12,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m> -0.294 </y-m>
@@ -21,7 +21,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m> -0.373 </y-m>
@@ -30,7 +30,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m> -0.451 </y-m>
@@ -39,7 +39,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m> -0.532 </y-m>
@@ -48,7 +48,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m> -0.545 </y-m>
@@ -57,7 +57,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m> -0.516 </y-m>
@@ -66,7 +66,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m> -0.455 </y-m>
@@ -75,7 +75,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m> -0.384 </y-m>
@@ -84,7 +84,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m> -0.306 </y-m>
@@ -93,7 +93,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m> -0.230 </y-m>
@@ -102,7 +102,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m> -0.217 </y-m>
@@ -111,7 +111,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m> -0.230 </y-m>
@@ -120,7 +120,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m> -0.217 </y-m>
@@ -129,7 +129,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m> -0.230 </y-m>
@@ -138,7 +138,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m> -0.207 </y-m>
@@ -147,7 +147,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m> -0.144 </y-m>
@@ -156,7 +156,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m> -0.079 </y-m>
@@ -165,7 +165,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m> -0.009 </y-m>
@@ -174,7 +174,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m> -0.124 </y-m>
@@ -183,7 +183,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m> -0.043 </y-m>
@@ -192,7 +192,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m> 0.231 </x-m>
       <y-m> 0.056 </y-m>
@@ -201,7 +201,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m> 0.231 </x-m>
       <y-m> 0.083 </y-m>
@@ -210,7 +210,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m> 0.231 </x-m>
       <y-m> 0.156 </y-m>
@@ -219,7 +219,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m> 0.231 </x-m>
       <y-m> 0.233 </y-m>
@@ -228,7 +228,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m> 0.231 </x-m>
       <y-m> 0.305 </y-m>
@@ -237,7 +237,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m> 0.231 </x-m>
       <y-m> 0.308 </y-m>
@@ -246,7 +246,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m>  0.059 </y-m>
@@ -255,7 +255,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m>  0.072 </y-m>
@@ -264,7 +264,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m>  0.054 </y-m>
@@ -273,7 +273,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m>  0.072 </y-m>
@@ -282,7 +282,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m>  0.146 </y-m>
@@ -291,7 +291,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m>  0.220 </y-m>
@@ -300,7 +300,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m>  0.296 </y-m>
@@ -309,7 +309,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m>  0.308 </y-m>
@@ -318,7 +318,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m>  0.308 </y-m>
@@ -327,7 +327,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m> 0.323 </x-m>
       <y-m> 0.398 </y-m>
@@ -336,7 +336,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m> 0.323 </x-m>
       <y-m> 0.426 </y-m>
@@ -345,7 +345,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.323 </x-m>
       <y-m>  0.455 </y-m>
@@ -354,7 +354,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.323 </x-m>
       <y-m>  0.512 </y-m>
@@ -363,7 +363,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.323 </x-m>
       <y-m>  0.538 </y-m>
@@ -372,7 +372,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.323 </x-m>
       <y-m>  0.545 </y-m>
@@ -381,7 +381,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/screw.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/screw.xml</path>
     <offsets>
       <x-m>  0.323 </x-m>
       <y-m>  0.545 </y-m>

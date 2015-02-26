@@ -16,7 +16,7 @@
 
   <!-- working for Rembrandt -->
   <effect>
-    <inherits-from>Aircraft/B-17/Models/Effects/Glass/glass</inherits-from>
+    <inherits-from>Aircraft/FlyingFortress-Jsb/Models/Effects/Glass/glass</inherits-from>
     <object-name>verretourelle2</object-name>
     <object-name>intverretourelle2</object-name>
   </effect>
@@ -32,7 +32,7 @@
   <!-- Up turet -->
   <model>
     <name>DownLeftGun</name>
-    <path>Aircraft/B-17/Models/Guns/guns.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Guns/guns.xml</path>
     <offsets>
       <x-m> -0.64117 </x-m>
       <y-m> -0.14400 </y-m>
@@ -42,7 +42,7 @@
 
   <model>
     <name>DownRightGun</name>
-    <path>Aircraft/B-17/Models/Guns/guns.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Guns/guns.xml</path>
     <offsets>
       <x-m> -0.64117 </x-m>
       <y-m>  0.14400 </y-m>

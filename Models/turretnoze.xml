@@ -15,7 +15,7 @@
   <!-- Mitrailleuses -->
   <model>
     <name>InDaNose1</name>
-    <path>Aircraft/B-17/Models/Guns/guns.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Guns/guns.xml</path>
     <offsets>
       <x-m> -0.51501 </x-m>
       <y-m> -0.15710 </y-m>
@@ -25,7 +25,7 @@
 
   <model>
     <name>InDaNose2</name>
-    <path>Aircraft/B-17/Models/Guns/guns.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Guns/guns.xml</path>
     <offsets>
       <x-m> -0.51501 </x-m>
       <y-m>  0.15710 </y-m>

@@ -15,7 +15,7 @@
 
   <!-- Switch Landing Light -->
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/divers/landing-lights.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/divers/landing-lights.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m> -0.383 </y-m>
@@ -24,11 +24,7 @@
   </model>
 
   <model>
-<<<<<<< HEAD
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/divers/nav-lights.xml</path>
-=======
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/divers/switch.xml</path>
->>>>>>> origin/master
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/divers/nav-lights.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m> -0.338 </y-m>
@@ -37,11 +33,7 @@
   </model>
  
   <model>
-<<<<<<< HEAD
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/divers/strobe-lights.xml</path>
-=======
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/divers/switch.xml</path>
->>>>>>> origin/master
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/divers/strobe-lights.xml</path>
     <offsets>
       <x-m>  0.231 </x-m>
       <y-m> -0.293 </y-m>
@@ -51,7 +43,7 @@
 
   <!-- AI -->
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/ai/ai.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/ai/ai.xml</path>
     <offsets>
       <x-m>  0.229 </x-m>
       <y-m> -0.040 </y-m>
@@ -61,7 +53,7 @@
 
   <!-- COMPASS -->
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/compass/compass.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/compass/compass.xml</path>
     <offsets>
       <x-m>  0.228 </x-m>
       <y-m> -0.114 </y-m>
@@ -71,7 +63,7 @@
 
   <!-- TURN -->
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/turn/turn.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/turn/turn.xml</path>
     <offsets>
       <x-m>  0.228 </x-m>
       <y-m> -0.076 </y-m>
@@ -81,7 +73,7 @@
 
   <!-- VSI -->
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/vsi/vsi.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/vsi/vsi.xml</path>
     <offsets>
       <x-m>  0.226 </x-m>
       <y-m> -0.020 </y-m>
@@ -91,7 +83,7 @@
 
   <!-- CLOCK -->
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/clock/clock.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/clock/clock.xml</path>
     <offsets>
       <x-m>  0.228 </x-m>
       <y-m> -0.188 </y-m>
@@ -101,7 +93,7 @@
 
   <!-- ASI -->
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/asi/asi.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/asi/asi.xml</path>
     <offsets>
       <x-m>  0.230 </x-m>
       <y-m> -0.132 </y-m>
@@ -111,7 +103,7 @@
 
   <!-- MANIFOLD -->
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/manifold/manleft.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/manifold/manleft.xml</path>
     <offsets>
       <x-m> 0.227 </x-m>
       <y-m> 0.040 </y-m>
@@ -120,7 +112,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/manifold/manright.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/manifold/manright.xml</path>
     <offsets>
       <x-m> 0.227 </x-m>
       <y-m> 0.097 </y-m>
@@ -130,7 +122,7 @@
 
   <!-- RPM -->
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/rpm/rpmleft.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/rpm/rpmleft.xml</path>
     <offsets>
       <x-m>  0.227 </x-m>
       <y-m>  0.040 </y-m>
@@ -139,7 +131,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/rpm/rpmright.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/rpm/rpmright.xml</path>
     <offsets>
       <x-m>  0.227 </x-m>
       <y-m>  0.097 </y-m>
@@ -149,7 +141,7 @@
 
   <!-- FLAPSGEAR -->
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/flaps/flaps.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/flaps/flaps.xml</path>
     <offsets>
       <x-m>  0.228 </x-m>
       <y-m>  0.097 </y-m>
@@ -159,7 +151,7 @@
 
   <!-- FUELPRESSURE -->
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/fuelpress/fuelpressleft.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/fuelpress/fuelpressleft.xml</path>
     <offsets>
       <x-m> 0.227 </x-m>
       <y-m> 0.162 </y-m>
@@ -168,7 +160,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/fuelpress/fuelpressright.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/fuelpress/fuelpressright.xml</path>
     <offsets>
       <x-m> 0.227 </x-m>
       <y-m> 0.215 </y-m>
@@ -178,7 +170,7 @@
 
   <!-- OILPRESSURE -->
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/oilpress/oilpressleft.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/oilpress/oilpressleft.xml</path>
     <offsets>
       <x-m>  0.227 </x-m>
       <y-m>  0.162 </y-m>
@@ -187,7 +179,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/oilpress/oilpressright.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/oilpress/oilpressright.xml</path>
     <offsets>
       <x-m>  0.227 </x-m>
       <y-m>  0.215 </y-m>
@@ -197,7 +189,7 @@
 
   <!-- OILTEMPRATURE -->
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/oiltemp/oiltempleft.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/oiltemp/oiltempleft.xml</path>
     <offsets>
       <x-m>  0.227 </x-m>
       <y-m>  0.162 </y-m>
@@ -206,7 +198,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/oiltemp/oiltempright.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/oiltemp/oiltempright.xml</path>
     <offsets>
       <x-m>  0.227 </x-m>
       <y-m>  0.215 </y-m>
@@ -216,7 +208,7 @@
 
   <!-- RRC -->
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/rrc/rrc.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/rrc/rrc.xml</path>
     <offsets>
       <x-m>  0.227 </x-m>
       <y-m> -0.345 </y-m>
@@ -226,7 +218,7 @@
 
   <!-- CARBTEMPERATURE -->
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/carbtemp/carbleft.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/carbtemp/carbleft.xml</path>
     <offsets>
       <x-m>  0.227 </x-m>
       <y-m>  0.220 </y-m>
@@ -235,7 +227,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/carbtemp/carbright.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/carbtemp/carbright.xml</path>
     <offsets>
       <x-m>  0.227 </x-m>
       <y-m>  0.274 </y-m>
@@ -245,7 +237,7 @@
 
   <!-- CYL -->
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/cyl/cylleft.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/cyl/cylleft.xml</path>
     <offsets>
       <x-m>  0.227 </x-m>
       <y-m>  0.107 </y-m>
@@ -254,7 +246,7 @@
   </model>
 
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/cyl/cylright.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/cyl/cylright.xml</path>
     <offsets>
       <x-m>  0.227 </x-m>
       <y-m>  0.161 </y-m>
@@ -264,7 +256,7 @@
 
   <!-- PDI -->
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/pdi/pdi.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/pdi/pdi.xml</path>
     <offsets>
       <x-m>  0.230 </x-m>
       <y-m> -0.274 </y-m>
@@ -274,7 +266,7 @@
 
   <!-- VOLTMETER -->
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/voltmeter/voltmeter.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/voltmeter/voltmeter.xml</path>
     <offsets>
       <x-m>  0.229 </x-m>
       <y-m> -0.430 </y-m>
@@ -282,21 +274,14 @@
     </offsets>
   </model>
 
-<<<<<<< HEAD
   <!-- SCREWS
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/all-screws.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Instruments/screws/all-screws.xml</path>
   </model> -->
-=======
-  <!-- SCREWS -->
-  <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Instruments/screws/all-screws.xml</path>
-  </model>
->>>>>>> origin/master
 
   <!-- Pedestal -->
   <model>
-    <path>Aircraft/B-17/Models/Interior/Panel/Pedestal/pedestal.xml</path>
+    <path>Aircraft/FlyingFortress-Jsb/Models/Interior/Panel/Pedestal/pedestal.xml</path>
     <offsets>
       <x-m>  0.54165 </x-m>
       <y-m>  0.00000 </y-m>
