@@ -13,11 +13,11 @@
     <fuel-fraction>0.8</fuel-fraction>
   
     <startup>
-      <splash-texture>Aircraft/B-17/b17-splash.png</splash-texture>
+      <splash-texture>Aircraft/FlyingFortress-Jsb/b17-splash.png</splash-texture>
     </startup>
 
     <model>
-      <path>Aircraft/B-17/Models/b17.xml</path>
+      <path>Aircraft/FlyingFortress-Jsb/Models/b17.xml</path>
       <livery>
         <file type="string">default</file>
       </livery>
@@ -45,7 +45,7 @@
     </model>
 
     <sound>
-      <path>Aircraft/B-17/Sounds/b17-sound.xml</path>
+      <path>Aircraft/FlyingFortress-Jsb/Sounds/b17-sound.xml</path>
     </sound>
 
     <multiplay>
@@ -158,14 +158,14 @@
   -->
   <nasal>
     <doors>
-      <file>Aircraft/B-17/Nasal/doors.nas</file>
+      <file>Aircraft/FlyingFortress-Jsb/Nasal/doors.nas</file>
     </doors>
     <b17>
-      <file>Aircraft/B-17/Nasal/liveries.nas</file>
-      <file>Aircraft/B-17/Nasal/light.nas</file>
+      <file>Aircraft/FlyingFortress-Jsb/Nasal/liveries.nas</file>
+      <file>Aircraft/FlyingFortress-Jsb/Nasal/light.nas</file>
     </b17>
     <turrets>
-      <file>Aircraft/B-17/Nasal/turrets.nas</file>
+      <file>Aircraft/FlyingFortress-Jsb/Nasal/turrets.nas</file>
       <script>
       </script>
     </turrets>
